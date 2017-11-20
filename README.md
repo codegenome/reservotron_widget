@@ -16,4 +16,4 @@ Voici la documentation pour l'utilisation sur un autre site [here](https://reser
 Parternaires
 --------------------------------
 
-Si vous désirer intégrer le widget pour un de vos clients, vous pouvez communiquer avec nous directement via info@reservotron.com .
+Si vous désirez intégrer le widget pour un de vos clients, vous pouvez communiquer avec nous directement via info@reservotron.com .

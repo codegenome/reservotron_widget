@@ -20,7 +20,7 @@ Voici la documentation pour l'utilisation sur un autre site [here](https://reser
 Important
 ----------
 
-Remplacer `votre-identifiant`
+Remplacer `votre-identifiant` par votre nom de comte Reservotron présent dans l'url. Par exemple: `https://reservotron.com/votre-identifiant`.
 
 Parternaires
 --------------------------------

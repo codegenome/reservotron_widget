@@ -1,4 +1,4 @@
-Reservotron Widget  
+Reservotron Widget
 ===========
 
 Reservotron booking widget example
@@ -6,12 +6,21 @@ Reservotron booking widget example
 Description
 -----------
 
-Ce répertoire contient un exemple de page HTML simple sur lequel le widget de réservation de Reservotron a été intégré.
+Ce répertoire contient 3 exemples de page HTML simple sur lequel le widget de réservation de Reservotron a été intégré:
+
+* une intégration avec la navigation complète (avec recherche)
+* une intégration pour une activité spécifique
+* une intégration du widget en mode compact
 
 Quickstart
 ----------
 
-Voici la documentation pour l'utilisation sur un autre site [here](https://reservotron.gitbooks.io/reservotron/content/ajoutez_reservotron_sur_votre_site.html)
+Voici la documentation pour l'utilisation sur un autre site [here](https://reservotron.gitbooks.io/reservotron/content/ajoutez_reservotron_sur_votre_site.html).
+
+Important
+----------
+
+Remplacer `votre-identifiant`
 
 Parternaires
 --------------------------------

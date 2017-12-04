@@ -15,7 +15,12 @@ Ce répertoire contient 3 exemples de page HTML simple sur lequel le widget de r
 Quickstart
 ----------
 
-Voici la documentation pour l'utilisation sur un autre site [here](https://reservotron.gitbooks.io/reservotron/content/ajoutez_reservotron_sur_votre_site.html)
+Voici la documentation pour l'utilisation sur un autre site [here](https://reservotron.gitbooks.io/reservotron/content/ajoutez_reservotron_sur_votre_site.html).
+
+Important
+----------
+
+Remplacer `votre-identifiant`
 
 Parternaires
 --------------------------------

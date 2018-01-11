@@ -1,0 +1,35 @@
+<html>
+  <head>
+    <style>
+      body { margin: 0; background-color: #eee; }
+      #header { background-color: #ddd; }
+    </style>
+  </head>
+  <body>
+    <div id="header">
+      <!-- cart wrapper: show item count and total, link to open cart in rsvt-wrapper -->
+      <div id="rsvt-cart-wrapper" style="text-align: right">
+        <iframe id="reservotron-shopping-cart" src="http://localhost:3000/cime-aventures/widgets/cart" frameborder="0" width="222" height="50"></iframe>
+      </div>
+    </div>
+    <div id="site-content">
+      <!-- booking link using product id -->
+      <a href="#" class="reservotron-search" data-path="https://localhost:3000/cime-aventures/?only=l1299,l1308,l1355,l1311,l1320,l1378,l1367&compact=1&widget=1&locale=fr">Camping test 1</a>
+      <br/>
+      <a href="#" class="reservotron-search" data-ids="l1299,l1308,l1355,l1311,l1320,l1378,l1367">Camping test 2</a>
+      <br/>
+      <a href="#" class="reservotron-search" data-path="http://localhost:3000/cime-aventures/activities/1378">la Familliale test 1</a>
+      <br/>
+      <a href="#" class="reservotron-search"  data-ids="a1378">la Familliale test 2</a>
+      <br/>
+      <!-- booking link using category id -->
+    </div>
+    <!-- display dynamic content from Reservotron -->
+    <div id="rsvt-wrapper" style="display:none">
+      <div><a href="#" class="retour-rsvt button"><span class="ico-prev"></span>BACK</a></div>
+      <iframe id="reservotron-store-content" src="http://localhost:3000/cime-aventures/activities/591?widget=1" frameborder="0" width="900" height="700"></iframe>
+    </div>
+    <script type="text/javascript">window.rsvtAccountSlug = 'cime-aventures';</script>
+    <script async type="text/javascript" src="http://localhost:3000/assets/widget.js"></script>
+  </body>
+</html>
